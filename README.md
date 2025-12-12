@@ -1,4 +1,4 @@
-# Pearcleaner
+# ug[Pearcleaner]
 <p align="center">
 <!--    <img src="https://github.com/alienator88/Pearcleaner/assets/91337119/165f6961-f4fc-4199-bc68-580bacff6eaf" align="center" width="128" height="128" /> -->
    <img src="https://github.com/user-attachments/assets/62cd5fcb-92d3-4d3a-9664-161a7deabd46" align="center" width="160" height="160" />
@@ -7,6 +7,8 @@
    <strong>Status: </strong>Maintained
    <br />
    <strong>Version: </strong>5.4.3
+   <br />
+   <strong>Owned and originally made by: </strong>alienator88
    <br />
    <a href="https://github.com/alienator88/Pearcleaner/releases"><strong>Download</strong></a>
     · 
